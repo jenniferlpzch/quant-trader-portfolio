@@ -1,5 +1,5 @@
 
-# ⚡ Quant Trader Portfolio Optimization – Validación Cruzada
+# Quant Trader Portfolio Optimization – Validación Cruzada
 
 Este proyecto simula una estrategia cuantitativa para construir un portafolio diario en el mercado eléctrico. A través de datos históricos y métricas de rendimiento, se seleccionan nodos de energía con el objetivo de maximizar retornos bajo restricciones operativas reales.
 
