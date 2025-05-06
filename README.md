@@ -4,8 +4,17 @@
 Este proyecto simula una estrategia cuantitativa para construir un portafolio diario en el mercado eléctrico. A través de datos históricos y métricas de rendimiento, se seleccionan nodos de energía con el objetivo de maximizar retornos bajo restricciones operativas reales.
 
 ---
+## ANTES DE COMENZAR, PORFAVOR LEER EL ARCHIVO READMEv1.Md
+Es importante leer el documento para saber como empezo, que cambios se hizo, este es el version final. Tambien adjunto un pdf donde muestra y explica los resultados
+y explicacion de cada version.
+
+- QuantTradingv1.py es el original, donde luego se adapto cambios para mejorar resultados
+- El archivo QuantTrading.py es el version con cambios
+- Este de QuantValidacionCruzada.py es el version con cambios hechos con validacion, version final
+- Para mi es importante reconocer y ver los adaptaciones hechos, para ver que a mejorado.
 
 ## Objetivo
+
 
 - Optimizar la asignación diaria de capital (máx. USD 50,000)
 - Seleccionar al menos 5 nodos por día
@@ -13,11 +22,7 @@ Este proyecto simula una estrategia cuantitativa para construir un portafolio di
 - Evitar el uso de datos futuros mediante validación cruzada temporal
 - Exportar resultados y análisis para revisión técnica
 
-## Empieza AQUI, nota antes de comenzar
-- Antes de comenzar, es importante saber que el archivo QuantTrading.py es el version con Cambios
-- Hechos, QuantTradingv1.py es el original, donde luego se adapto cambios para mejorar resultados
-- Este de QuantValidacionCruzada.py es el version con cambios hechos con validacion, version final
-- Para mi es importante reconocer y ver los adaptaciones hechos, para ver que a mejorado.
+
 
 ---
 
